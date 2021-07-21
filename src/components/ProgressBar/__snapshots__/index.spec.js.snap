@@ -2,7 +2,7 @@
 
 exports[`ProgressBar Should activate specific active tags 1`] = `
 <div
-  className="sc-htoDjs dgwmTd"
+  className="sc-htoDjs hqjyJW"
 >
   <p
     className="sc-htpNat hKYTRr"
@@ -33,7 +33,7 @@ exports[`ProgressBar Should activate specific active tags 1`] = `
 
 exports[`ProgressBar Should render the component 1`] = `
 <div
-  className="sc-htoDjs dgwmTd"
+  className="sc-htoDjs hqjyJW"
 >
   <p
     className="sc-htpNat hKYTRr"

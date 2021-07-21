@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { colors } from '../../../styles/variables';
 
 const ProgressBarContainer = styled.div`
   display: flex;
@@ -7,7 +8,8 @@ const ProgressBarContainer = styled.div`
   p {
     font-size: 14px;
     margin-right: 10px;
-    width: ${({ labelWidth }) => labelWidth || '60px'}
+    width: ${({ labelWidth }) => labelWidth || '60px'};
+    color: ${colors.DEFAULT_BLACK}
   }
 `;
 
